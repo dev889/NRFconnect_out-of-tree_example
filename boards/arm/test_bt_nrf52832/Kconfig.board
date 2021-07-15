@@ -1,0 +1,8 @@
+# TEST BT nRF52832 board configuration
+
+# Copyright (c) 2018 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+config TEST_BT_NRF52832
+	bool "nRF52 FILO BT NRF52832"
+	depends on SOC_NRF52832_QFAA

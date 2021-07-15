@@ -1,0 +1,14 @@
+# VL53LX time of flight sensor configuration options
+
+# Copyright (c) 2017 STMicroelectronics
+# SPDX-License-Identifier: Apache-2.0
+
+config VL53LX
+ 	bool "VL53LX time of flight sensor"
+ 	depends on I2C
+
+if VL53LX
+module = VL53LX
+module-str = VL53LX
+#source "subsys/logging/Kconfig.template.log_config"
+endif

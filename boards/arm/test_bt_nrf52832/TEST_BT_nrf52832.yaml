@@ -1,0 +1,12 @@
+identifier: test_bt_nrf52832
+name: TEST-BT
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+supported:
+  - counter
+ram: 24
+flash: 192

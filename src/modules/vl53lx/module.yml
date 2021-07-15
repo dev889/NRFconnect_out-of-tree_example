@@ -1,0 +1,6 @@
+name: vl53lx
+
+build:
+  cmake: .
+  kconfig: Kconfig
+

@@ -1,0 +1,9 @@
+description: STMicroelectronics VL53Lx Time of Flight sensor
+
+compatible: "st,vl53lx"
+include: i2c-device.yaml
+
+gpios:
+   	description: GPIO XHUT and INT
+	type: phandle-array
+        required: true

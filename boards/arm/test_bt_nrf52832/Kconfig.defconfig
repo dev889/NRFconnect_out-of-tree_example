@@ -1,0 +1,12 @@
+# TEST BT nRF52832 board configuration
+
+# Copyright (c) 2018 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+#if BOARD_TEST_BT_NRF52832
+
+#config BOARD
+#	default "test_bt_nrf52832"
+
+#endif # BOARD_TEST_BT_NRF52832
+
