@@ -1,0 +1,1 @@
+# NRFconnect_out-of-tree_example
