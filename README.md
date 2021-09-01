@@ -1,5 +1,5 @@
 
-Please go to the rewoked example https://github.com/dev889/NordicDTSgpioExample
+Please go to the reworked example https://github.com/dev889/NordicDTSgpioExample
 This repo is not sustained
 
 # NRFconnect_out-of-tree_example
