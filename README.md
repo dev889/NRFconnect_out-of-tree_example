@@ -1,3 +1,7 @@
+
+Please go to the rewoked example https://github.com/dev889/NordicDTSgpioExample
+This repo is not sustained
+
 # NRFconnect_out-of-tree_example
 
 ** This is a working repo. It is still bugy ... ** 
